@@ -17,7 +17,6 @@ async def test(dut):
     audio_out.setframerate(audio_in.getframerate())
 
     nframes = audio_in.getnframes()
-    nframes = 10000
     print("sending %d frames" % nframes)
     
     # process the audio through the dut

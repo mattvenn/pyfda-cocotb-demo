@@ -13,6 +13,6 @@ module top (
         end
     `endif
 
-    assign data_out = data_in;
+    filter filter (.i(data_in), .o(data_out), .sys_clk(clk), .sys_rst(1'b0));
 
 endmodule

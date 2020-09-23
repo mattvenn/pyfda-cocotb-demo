@@ -1,15 +1,15 @@
 [*]
 [*] GTKWave Analyzer v3.3.105 (w)1999-2020 BSI
-[*] Wed Sep 23 09:30:28 2020
+[*] Wed Sep 23 09:52:12 2020
 [*]
 [dumpfile] "/home/matt/work/fpga/pyfda-cocotb-demo/top.vcd"
-[dumpfile_mtime] "Wed Sep 23 09:30:08 2020"
-[dumpfile_size] 680506
+[dumpfile_mtime] "Wed Sep 23 09:51:27 2020"
+[dumpfile_size] 24963113
 [savefile] "/home/matt/work/fpga/pyfda-cocotb-demo/top_coco.gtkw"
 [timestart] 0
-[size] 1863 1179
+[size] 2353 1179
 [pos] -1 -1
-*-35.000000 2010000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+*-36.000000 2010000000 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
 [sst_width] 272
 [signals_width] 438
 [sst_expanded] 1
