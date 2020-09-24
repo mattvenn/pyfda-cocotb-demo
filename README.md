@@ -2,6 +2,10 @@
 
 This demo shows off [cocotb](https://github.com/cocotb/cocotb) and [pyfda](https://github.com/chipmuenk/pyfda).
 
+Youtube [video](https://youtu.be/dtK-4JZ4Cwc)
+
+![screenshot](cocotb-pyfda-screenshot.png)
+
 # cocotb
 
 cocotb lets you write your HDL simulations in Python, which is fantastic because it allows you to
